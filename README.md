@@ -1,8 +1,5 @@
 # flappy_bird_game
-![Uploading FlappyBird Game.png…]()
-![Uploading FlappyBird Game.png…]()
-
-![Uploading Screenshot 2024-01-06 at 02.10.36.png…]()
+![Uploading FlappyBird Game.png…]() 
 
 ### English Description:
 
