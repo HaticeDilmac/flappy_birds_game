@@ -1,5 +1,5 @@
 # flappy_bird_game
-![Uploading FlappyBird Game.png…]() 
+![Uploading FlappyBird Game.png…]
 
 ### English Description:
 
@@ -43,4 +43,3 @@ Flappy Bird Oyunu, oyuncuların bir kuşu kontrol ederek onu bir dizi engelden g
 Flappy Bird Oyunu'nun heyecanını ve heyecanını yaşayarak, yüksek puanınızı yenmek ve en iyi uçan kuş ustası olmak için kendinizi zorlayın!
 
 
-![Uploading FlappyBird Game.png…]()
