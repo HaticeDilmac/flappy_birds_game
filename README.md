@@ -1,5 +1,6 @@
-# FLAPPY BIRD GAME
-![Flappy Bırd](https://github.com/HaticeDilmac/goistanbul/assets/100489350/5e7cbf54-00aa-4a62-a28e-938ec78ae1ee)
+# FLAPPY BIRD GAME 
+
+![FlappyBird Game (1)](https://github.com/HaticeDilmac/flappy_birds_game/assets/100489350/083a991e-30e1-4e55-8beb-32ad00232f89)
 
 ### English Description:
 
