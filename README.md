@@ -1,4 +1,4 @@
-# flappy_bird_game
+# FLAPPY BIRD GAME
 ![flappy_bird_game](https://r.resimlink.com/5KuIrdT.png)
 <a href="https://resimlink.com/5KuIrdT" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/5KuIrdT.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
