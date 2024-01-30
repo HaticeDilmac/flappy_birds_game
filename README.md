@@ -2,8 +2,6 @@
 
 ![FlappyBird Game (1)](https://github.com/HaticeDilmac/flappy_birds_game/assets/100489350/083a991e-30e1-4e55-8beb-32ad00232f89)
 
-### English Description:
-
 **Flappy Bird Game**
 
 Flappy Bird Game is a simple yet addictive mobile game where players control a bird and navigate it through a series of obstacles. The objective is to pass through as many obstacles as possible without colliding with them.
@@ -23,7 +21,6 @@ Flappy Bird Game is a simple yet addictive mobile game where players control a b
 Experience the thrill and excitement of Flappy Bird Game as you challenge yourself to beat your high score and become the ultimate flappy bird master!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Türkçe Açıklama:
 
 **Flappy Bird Oyunu**
 
