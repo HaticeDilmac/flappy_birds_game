@@ -1,5 +1,5 @@
 # FLAPPY BIRD GAME
-![flappy_bird_game](https://r.resimlink.com/5KuIrdT.png)
+![Flappy Bırd](https://github.com/HaticeDilmac/goistanbul/assets/100489350/5e7cbf54-00aa-4a62-a28e-938ec78ae1ee)
 
 ### English Description:
 
